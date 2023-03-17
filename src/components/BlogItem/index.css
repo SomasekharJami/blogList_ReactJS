@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.proListItem {
+  list-style: none;
+}
+.titleCon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.titleH {
+  color: #12022f;
+  font-size: 16px;
+}
+.proDate {
+  color: #616e7c;
+  font-size: 16px;
+}
+.proDesc {
+  color: #9aa5b1;
+  font-size: 14px;
+}
+.hrEl {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

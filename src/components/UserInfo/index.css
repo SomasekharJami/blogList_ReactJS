@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.profileImgCon {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.profileImg {
+  height: 20vh;
+}
+.profileH {
+  color: #12022f;
+  font-size: 20px;
+}
+.profileP {
+  color: #616e7c;
+  font-size: 16px;
+}
